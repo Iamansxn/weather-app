@@ -1,0 +1,20 @@
+.container {
+  font-size: 30px;
+}
+.search_bar {
+  width: 30%;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 45px;
+}
+.search_bar input {
+}
+.weatherInfo {
+  border: 10px solid black;
+  border-radius: 40px;
+  width: 30%;
+  display: grid;
+  height: auto;
+  margin: auto;
+  background-color: bisque;
+}
